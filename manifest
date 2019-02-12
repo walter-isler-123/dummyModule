@@ -1,0 +1,4 @@
+name = DummyModule
+date = 1549900591455
+icon = icon.png
+description = The module is a dummy. It does nothing.
